@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓🌐Aluno do curso desenvolvimento web no DevInHouse/Senai. 📚🖥️
+🎓🌐Aluno do curso desenvolvimento web no DevInHouse/Senai. 🇺🇸 Student of web development course at DevInHouse/Senai.📚🖥️
+🎉🎉Abraçei com entusiasmo uma nova jornada profissional.   🇺🇸 Embracing a new professional journey with enthusiasm. 💪✨
+
+
 
 
 ## 🌐 Socials:
