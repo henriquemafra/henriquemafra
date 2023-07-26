@@ -1,4 +1,4 @@
-## Hey 👋, This is Henrique Mafra
+## Hey 👋, This is Henrique Mafra | Oi 👋, eu sou Henrique Mafra 
 [![Gmail Badge](https://img.shields.io/badge/-henriquemafra89@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:henriquemafra89@gmail.com)](mailto:henriquemafra89@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-henriquemafradev-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriquemafradev/)](https://www.linkedin.com/in/henriquemafradev/) [![Github Badge](https://img.shields.io/badge/-henriquemafra-grey?style=flat&logo=github&logoColor=white&link=https://github.com/henriquemafra/)](https://www.github.com/henriquemafra/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://henriquemafra.com.br//)](http://henriquemafra.com.br//) <p align='left'>About me (English)
 
@@ -16,7 +16,7 @@ Sou um entusiasta de novas ideias e busco constantemente conhecimento autodidata
 Ao longo da minha jornada, adquiri sólidos conhecimentos em diferentes tecnologias e me sinto capacitado para criar produtos e soluções inovadoras.
 
 Estou motivado a continuar aprendendo e enfrentando novos desafios na área de desenvolvimento. Minha dedicação e paixão por transformar ideias em realidade através da tecnologia são o que me impulsionam a ser um profissional melhor a cada dia.</p>
-## Some of my Github Stats
+## Some of my Github Stats | Minhas estatísticas no GitHub
 <p align=left> <img src=https://komarev.com/ghpvc/?username=henriquemafra alt=henriquemafra /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=henriquemafra&show_icons=true&include_all_commits=true)](https://github.com/henriquemafra/github-readme-stats)
