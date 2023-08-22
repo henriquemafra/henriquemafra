@@ -24,5 +24,5 @@ Estou motivado a continuar aprendendo e enfrentando novos desafios na área de d
 ## Some of my Github Stats | Minhas estatísticas no GitHub
 <p align=left> <img src=https://komarev.com/ghpvc/?username=henriquemafra alt=henriquemafra /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=henriquemafra&show_icons=true&include_all_commits=true)](https://github.com/henriquemafra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquemafra&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemafra&layout=compact)](https://github.com/henriquemafra/github-readme-stats)
